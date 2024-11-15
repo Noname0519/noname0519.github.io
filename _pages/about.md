@@ -29,8 +29,8 @@ I am a second-year Ph.D. student at the College of Computer Science of Nankai Un
 # 📝 Publications 
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2024</div></div></div>-->
-<div class='paper-box'><div class='paper-box-image'><div class="badge">TSE 2024</div></div>
-<div class='paper-box-text' markdown="1">
+<!--<div class='paper-box'><div class='paper-box-image'><div class="badge">TSE 2024</div></div>-->
+<!--<div class='paper-box-text' markdown="1">-->
 [Does the Vulnerability Threaten Our Projects? Automated Vulnerable API Detection for Third-Party Libraries](https://ieeexplore.ieee.org/abstract/document/10666791)
 Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao
 
