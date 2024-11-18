@@ -31,8 +31,8 @@ I am a second-year Ph.D. student at the College of Computer Science of Nankai Un
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2024</div></div></div>-->
 <!--<div class='paper-box'><div class='paper-box-image'><div class="badge">TSE 2024</div></div>-->
 <!--<div class='paper-box-text' markdown="1">-->
-[(TSE 2024, CCF-A) Does the Vulnerability Threaten Our Projects? Automated Vulnerable API Detection for Third-Party Libraries. IEEE Transactions on Software Engineering (TSE), 2024. ](https://ieeexplore.ieee.org/abstract/document/10666791)
-Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao, [**Dataset**](https://github.com/VAScanner/VAScanner) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[(TSE 2024, CCF-A) Does the Vulnerability Threaten Our Projects? Automated Vulnerable API Detection for Third-Party Libraries. IEEE Transactions on Software Engineering, 2024. ](https://ieeexplore.ieee.org/abstract/document/10666791)
+Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao, [**PDF**,](https://ieeexplore.ieee.org/abstract/document/10666791)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Dataset**](https://github.com/VAScanner/VAScanner) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>-->
 <!--<div class='paper-box-text' markdown="1">-->
