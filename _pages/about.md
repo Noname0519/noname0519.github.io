@@ -31,8 +31,8 @@ I am a second-year Ph.D. student at the College of Computer Science of Nankai Un
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2024</div></div></div>-->
 <!--<div class='paper-box'><div class='paper-box-image'><div class="badge">TSE 2024</div></div>-->
 <!--<div class='paper-box-text' markdown="1">-->
-[(TSE 2024, CCF-A) Does the Vulnerability Threaten Our Projects? Automated Vulnerable API Detection for Third-Party Libraries. IEEE Transactions on Software Engineering, 2024. ](https://ieeexplore.ieee.org/abstract/document/10666791)
-Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao, [**PDF**,](https://ieeexplore.ieee.org/abstract/document/10666791)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Dataset**](https://github.com/VAScanner/VAScanner) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+(TSE 2024, CCF-A) Does the Vulnerability Threaten Our Projects? Automated Vulnerable API Detection for Third-Party Libraries. IEEE Transactions on Software Engineering, 2024. 
+Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao, [**PDF**,](https://ieeexplore.ieee.org/abstract/document/10666791)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Dataset**](https://github.com/VAScanner/VAScanner) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>.
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>-->
 <!--<div class='paper-box-text' markdown="1">-->
@@ -67,3 +67,10 @@ Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao, [
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
 - *2022.01 - 2022.07*, Security Research Intern at [DBAPPSecurity](https://www.dbappsecurity.com.cn/), China.
 - *2021.07 - 2021.09*, Penetration Security Testing Intern at [Knownsec](https://www.yunaq.com/), China.
+
+# ⚡ Competition experience
+- The 14th National University Student Information Security Competition in 2021, China (First Prize)
+- National Student Information Security Triathlon in 2021, China (Second Prize)
+- Software Testing Competition Web Security Individual Competition Grand Final in 2019, China (Third Prize)
+
+
