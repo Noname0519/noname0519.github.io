@@ -58,12 +58,12 @@ Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao
 - *2019.09* 2019 Top 100 Youth of NUAA 
 
 # 📖 Educations
-- *2023.09 - Present*, Ph.D., College of Computer Science, Nankai University. 
+- *2023.09 - Present*, Ph.D. student, College of Computer Science, Nankai University. 
 - *2019.09 - 2023.06*, Bachelor, Information Security, Nanjing University of Aeronautics and Astronautics (NUAA). 
 
 <!--# 💬 Invited Talks-->
 <!--- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!--- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
