@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at the College of Computer Science of Nankai University, under the supervision of Prof. Lingling Fan and Sen Chen. My current research focuses on mobile security, with particular emphasis on mobile advertising risks and cross-platform security challenges in the App-to-Web channel.
+I am a second-year Ph.D. student at the College of Computer Science of Nankai University, under the supervision of Prof. [Lingling Fan](https://lingling-fan.github.io/) and [Sen Chen](https://sen-chen.github.io/). My current research focuses on mobile security, with particular emphasis on mobile advertising risks and cross-platform security challenges in the App-to-Web channel, and I also work on the software supply chain security.
 
 <!--My research interest includes mobile security and web security. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -31,10 +31,8 @@ I am a second-year Ph.D. student at the College of Computer Science of Nankai Un
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2024</div></div></div>-->
 <!--<div class='paper-box'><div class='paper-box-image'><div class="badge">TSE 2024</div></div>-->
 <!--<div class='paper-box-text' markdown="1">-->
-[Does the Vulnerability Threaten Our Projects? Automated Vulnerable API Detection for Third-Party Libraries](https://ieeexplore.ieee.org/abstract/document/10666791)
-Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao
-
-[**Dataset**](https://github.com/VAScanner/VAScanner) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[(TSE 2024, CCF-A) Does the Vulnerability Threaten Our Projects? Automated Vulnerable API Detection for Third-Party Libraries. IEEE Transactions on Software Engineering (TSE), 2024. ](https://ieeexplore.ieee.org/abstract/document/10666791)
+Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao, [**Dataset**](https://github.com/VAScanner/VAScanner) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>-->
 <!--<div class='paper-box-text' markdown="1">-->
