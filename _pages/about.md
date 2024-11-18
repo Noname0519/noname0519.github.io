@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at the College of Computer Science of Nankai University, under the supervision of Prof. [Lingling Fan](https://lingling-fan.github.io/) and [Sen Chen](https://sen-chen.github.io/). My current research focuses on mobile security, with particular emphasis on mobile advertising risks and cross-platform security challenges in the App-to-Web channel, and I also work on the software supply chain security.
+I am a second-year Ph.D. student at the College of Computer Science of Nankai University, under the supervision of Prof. [Lingling Fan](https://lingling-fan.github.io/) and [Sen Chen](https://sen-chen.github.io/). My current research focuses on mobile security, with particular emphasis on mobile advertising risks and cross-platform security challenges in the App-to-Web channel. I also work on the software supply chain security.
 
 <!--My research interest includes mobile security and web security. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -49,7 +49,7 @@ Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao, [
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
 # 🎖 Honors and Awards
-- *2023.10* Ethnic Minority Student Advancement Scholarship
+- *2023.10* Ethnic Minority Student Advancement Scholarship (Top 5%) (少数民族学生精进奖)
 - *2020.09* National Scholarship (Top 1%) 
 - *2020.09 & 2022.09* First Class Scholarship for Undergraduates 
 - *2020.09 & 2022.10* First Class Study Scholarship for Undergraduates
@@ -69,6 +69,8 @@ Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao, [
 - *2021.07 - 2021.09*, Penetration Security Testing Intern at [Knownsec](https://www.yunaq.com/), China.
 
 # ⚡ Competition experience
+Participating in Capture The Flag (CTF) competitions was my first step into the field of security. I primarily focused on solving challenges in Web Security and Penetration Testing. Here are some selected awards I have achieved:
+
 - The 14th National University Student Information Security Competition in 2021, China (First Prize)
 - National Student Information Security Triathlon in 2021, China (Second Prize)
 - Software Testing Competition Web Security Individual Competition Grand Final in 2019, China (Third Prize)

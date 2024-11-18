@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Miaoying Cai"
-description              : "**She** is a Ph.D. Student at Nankai University. "
+description              : "Nankai University"
 repository               : "Noname0519/noname0519.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Miaoying Cai"
   avatar           : "images/avatar.jpg"
-#  bio              : "A Ph.D. Student at Nankai University. "
+  bio              : "She is a Ph.D. Student working on mobile security and web security."
   location         : "Tianjin, China"
   employer         :
   pubmed           :
