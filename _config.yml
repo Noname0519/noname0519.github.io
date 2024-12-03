@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Miaoying Cai"
-  avatar           : "images/avatar.jpg"
+  avatar           : "images/avatar2.jpg"
   bio              : "She is a Ph.D. Student working on mobile security and web security."
   location         : "Tianjin, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=zvjtbKIAAAAJ&hl=zh-CN"
-  email            : "miaoyingcai At mail dot nankai dot edu dot cn"
+  email            : "miaoyingcai@mail.nankai.edu.cn"
 #  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : noname0519# e.g., "github username"
+  github           : noname0519
   google_plus      :
   keybase          :
   instagram        :
