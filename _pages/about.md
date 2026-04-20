@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student at the College of Computer Science of Nankai University, under the supervision of Prof. [Lingling Fan](https://lingling-fan.github.io/) and [Sen Chen](https://sen-chen.github.io/). I am currently visiting IMDEA Software Institute (Spain), under the supervision of Prof. Juan Caballero.
+I am a third-year Ph.D. student at the College of Computer Science of Nankai University, under the supervision of Prof. [Lingling Fan](https://lingling-fan.github.io/) and [Sen Chen](https://sen-chen.github.io/). I am currently visiting IMDEA Software Institute (Spain), under the supervision of Prof. [Juan Caballero](https://software.imdea.org/~juanca/).
 My current research focuses on mobile security and web security, with particular emphasis on malicious behavior hunting and cross-platform security issues detection. 
 I also work on the software supply chain security.
 
@@ -26,6 +26,7 @@ I also work on the software supply chain security.
 
 # 🔥 News-->
 *2026.06*: &nbsp;🎉🎉 One paper was accepted at ISSTA 2026! 
+
 *2025.09*: &nbsp;🎉🎉 One paper was accepted at ASE 2025!
 
 # 📝 Publications 
@@ -34,7 +35,7 @@ I also work on the software supply chain security.
 <!--<div class='paper-box'><div class='paper-box-image'><div class="badge">TSE 2024</div></div>-->
 <!--<div class='paper-box-text' markdown="1">-->
 
-(ISSTA 2026, CCF-A) You are deceived in the pocket“ —— Intrusive Advertisements in Mobile Applications: An Exploratory Study. The ACM SIGSOFT International Symposium on Software Testing and Analysis, 2026. 
+(ISSTA 2026, CCF-A) "You are deceived in the pocket" --- Intrusive Advertisements in Mobile Applications: An Exploratory Study. The ACM SIGSOFT International Symposium on Software Testing and Analysis, 2026. 
 **Miaoying Cai**, Dongsun Kim, Lingling Fan, Xiangyu Zhang, Sen Chen
 
 (ASE 2025, CCF-A) GlassWing: A Tailored Static Analysis Approach for Flutter Android Apps. IEEE/ACM International Conference on Automated Software Engineering, 2025.
