@@ -24,7 +24,7 @@ I also work on the software supply chain security.
 <!--My research interest includes mobile security and web security. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
-# 🔥 News-->
+# 🔥 News
 *2026.06*: &nbsp;🎉🎉 One paper was accepted at ISSTA 2026! 
 
 *2025.09*: &nbsp;🎉🎉 One paper was accepted at ASE 2025!
@@ -35,13 +35,13 @@ I also work on the software supply chain security.
 <!--<div class='paper-box'><div class='paper-box-image'><div class="badge">TSE 2024</div></div>-->
 <!--<div class='paper-box-text' markdown="1">-->
 
-(ISSTA 2026, CCF-A) "You are deceived in the pocket" --- Intrusive Advertisements in Mobile Applications: An Exploratory Study. The ACM SIGSOFT International Symposium on Software Testing and Analysis, 2026. 
+**(ISSTA 2026, CCF-A)** "You are deceived in the pocket" --- Intrusive Advertisements in Mobile Applications: An Exploratory Study. The ACM SIGSOFT International Symposium on Software Testing and Analysis, 2026. 
 **Miaoying Cai**, Dongsun Kim, Lingling Fan, Xiangyu Zhang, Sen Chen
 
-(ASE 2025, CCF-A) GlassWing: A Tailored Static Analysis Approach for Flutter Android Apps. IEEE/ACM International Conference on Automated Software Engineering, 2025.
+**(ASE 2025, CCF-A)** GlassWing: A Tailored Static Analysis Approach for Flutter Android Apps. IEEE/ACM International Conference on Automated Software Engineering, 2025.
 Xiangyu Zhang, Yucheng Su, Lingling Fan, **Miaoying Cai**, Sen Chen
 
-(TSE 2024, CCF-A) Does the Vulnerability Threaten Our Projects? Automated Vulnerable API Detection for Third-Party Libraries. IEEE Transactions on Software Engineering, 2024. 
+**(TSE 2024, CCF-A)** Does the Vulnerability Threaten Our Projects? Automated Vulnerable API Detection for Third-Party Libraries. IEEE Transactions on Software Engineering, 2024. 
 Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao, [**PDF**,](https://ieeexplore.ieee.org/abstract/document/10666791)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Dataset**](https://github.com/VAScanner/VAScanner) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>.
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>-->
