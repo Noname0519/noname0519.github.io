@@ -17,22 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at the College of Computer Science of Nankai University, under the supervision of Prof. [Lingling Fan](https://lingling-fan.github.io/) and [Sen Chen](https://sen-chen.github.io/). 
+I am a third-year Ph.D. student at the College of Computer Science of Nankai University, under the supervision of Prof. [Lingling Fan](https://lingling-fan.github.io/) and [Sen Chen](https://sen-chen.github.io/). I am currently visiting IMDEA Software Institute (Spain), under the supervision of Prof. Juan Caballero.
 My current research focuses on mobile security and web security, with particular emphasis on malicious behavior hunting and cross-platform security issues detection. 
 I also work on the software supply chain security.
 
 <!--My research interest includes mobile security and web security. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
-<!--# 🔥 News-->
-<!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-<!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+# 🔥 News-->
+*2026.06*: &nbsp;🎉🎉 One paper was accepted at ISSTA 2026! 
+*2025.09*: &nbsp;🎉🎉 One paper was accepted at ASE 2025!
 
 # 📝 Publications 
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2024</div></div></div>-->
 <!--<div class='paper-box'><div class='paper-box-image'><div class="badge">TSE 2024</div></div>-->
 <!--<div class='paper-box-text' markdown="1">-->
+
+(ISSTA 2026, CCF-A) You are deceived in the pocket“ —— Intrusive Advertisements in Mobile Applications: An Exploratory Study. The ACM SIGSOFT International Symposium on Software Testing and Analysis, 2026. 
+**Miaoying Cai**, Dongsun Kim, Lingling Fan, Xiangyu Zhang, Sen Chen
+
+(ASE 2025, CCF-A) GlassWing: A Tailored Static Analysis Approach for Flutter Android Apps. IEEE/ACM International Conference on Automated Software Engineering, 2025.
+Xiangyu Zhang, Yucheng Su, Lingling Fan, **Miaoying Cai**, Sen Chen
+
 (TSE 2024, CCF-A) Does the Vulnerability Threaten Our Projects? Automated Vulnerable API Detection for Third-Party Libraries. IEEE Transactions on Software Engineering, 2024. 
 Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao, [**PDF**,](https://ieeexplore.ieee.org/abstract/document/10666791)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [**Dataset**](https://github.com/VAScanner/VAScanner) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>.
 
