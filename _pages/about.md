@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student at the College of Computer Science of Nankai University, under the supervision of Prof. [Lingling Fan](https://lingling-fan.github.io/) and [Sen Chen](https://sen-chen.github.io/). I am currently visiting IMDEA Software Institute (Spain), under the supervision of Prof. [Juan Caballero](https://software.imdea.org/~juanca/).
-My current research focuses on mobile security and web security, with particular emphasis on malicious behavior hunting and cross-platform security issues detection. 
-I also work on the software supply chain security.
+I am a third-year Ph.D. student at the College of Computer Science of Nankai University, under the supervision of Prof. [Lingling Fan](https://lingling-fan.github.io/) and [Sen Chen](https://sen-chen.github.io/). I am currently visiting IMDEA Software Institute (Spain), under the supervision of Prof. [Juan Caballero](https://software.imdea.org/~juanca/). My current research focuses on mobile application analysis and testing.
+<!-- My current research focuses on mobile security and web security, with particular emphasis on malicious behavior hunting and cross-platform security issues detection. 
+I also work on the software supply chain security. -->
 
 <!--My research interest includes mobile security and web security. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
 # 🔥 News
-*2026.06*: &nbsp;🎉🎉 One paper was accepted at ISSTA 2026! 
+<!-- *2026.06*: &nbsp;🎉🎉 One paper was accepted at ISSTA 2026!  -->
 
 *2025.09*: &nbsp;🎉🎉 One paper was accepted at ASE 2025!
 
@@ -35,8 +35,8 @@ I also work on the software supply chain security.
 <!--<div class='paper-box'><div class='paper-box-image'><div class="badge">TSE 2024</div></div>-->
 <!--<div class='paper-box-text' markdown="1">-->
 
-**(ISSTA 2026, CCF-A)** "You are deceived in the pocket" --- Intrusive Advertisements in Mobile Applications: An Exploratory Study. The ACM SIGSOFT International Symposium on Software Testing and Analysis, 2026. 
-**Miaoying Cai**, Dongsun Kim, Lingling Fan, Xiangyu Zhang, Sen Chen
+<!-- **(ISSTA 2026, CCF-A)** "You are deceived in the pocket" --- Intrusive Advertisements in Mobile Applications: An Exploratory Study. The ACM SIGSOFT International Symposium on Software Testing and Analysis, 2026. 
+**Miaoying Cai**, Dongsun Kim, Lingling Fan, Xiangyu Zhang, Sen Chen -->
 
 **(ASE 2025, CCF-A)** GlassWing: A Tailored Static Analysis Approach for Flutter Android Apps. IEEE/ACM International Conference on Automated Software Engineering, 2025.
 Xiangyu Zhang, Yucheng Su, Lingling Fan, **Miaoying Cai**, Sen Chen
@@ -67,22 +67,24 @@ Fangyuan Zhang, Lingling Fan, Sen Chen, **Miaoying Cai**, Sihan Xu, Lida Zhao, [
 
 # 📖 Educations
 - *2023.09 - Present*, Ph.D. student, College of Computer Science, Nankai University. 
-- *2019.09 - 2023.06*, Bachelor, Information Security, Nanjing University of Aeronautics and Astronautics (NUAA). 
+- *2019.09 - 2023.06*, Bachelor, Computer Science, Nanjing University of Aeronautics and Astronautics (NUAA). 
+
+<!-- - *2019.09 - 2023.06*, Bachelor, Information Security, Nanjing University of Aeronautics and Astronautics (NUAA).  -->
 
 <!--# 💬 Invited Talks-->
 <!--- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
-# 💻 Internships
+<!-- # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
-- *2022.01 - 2022.07*, Security Research Intern at [DBAPPSecurity](https://www.dbappsecurity.com.cn/), China.
-- *2021.07 - 2021.09*, Penetration Security Testing Intern at [Knownsec](https://www.yunaq.com/), China.
+<!-- - *2022.01 - 2022.07*, Security Research Intern at [DBAPPSecurity](https://www.dbappsecurity.com.cn/), China.
+- *2021.07 - 2021.09*, Penetration Security Testing Intern at [Knownsec](https://www.yunaq.com/), China. -->
 
-# ⚡ Competition experience
+<!-- # ⚡ Competition experience
 Participating in Capture The Flag (CTF) competitions was my first step into the field of security. I primarily focused on solving challenges in Web Security and Penetration Testing. Here are some selected awards I have achieved:
 
 - The 14th National University Student Information Security Competition in 2021, China (First Prize)
 - National Student Information Security Triathlon in 2021, China (Second Prize)
-- Software Testing Competition Web Security Individual Competition Grand Final in 2019, China (Third Prize)
+- Software Testing Competition Web Security Individual Competition Grand Final in 2019, China (Third Prize) --> -->
 
 
